@@ -2,7 +2,7 @@
 
 # xfcｅ环境下笔记本亮度调节
 #　请用超级用户执行
-#　功能：亮度调亮
+#　功能：增加亮度
 
 light_conf="/sys/class/backlight/intel_backlight/brightness"
 max_day_light=900
