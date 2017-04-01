@@ -1,0 +1,6 @@
+<table schema="cartoon" tableName="bbs_cartoon" enableSelectByPrimaryKey="true" enableDeleteByPrimaryKey="true" enableUpdateByPrimaryKey="true" enableInsert="true"/>
+<table schema="cartoon" tableName="bbs_cartoon_actor" enableSelectByPrimaryKey="true" enableDeleteByPrimaryKey="true" enableUpdateByPrimaryKey="true" enableInsert="true"/>
+<table schema="cartoon" tableName="bbs_cartoon_author" enableSelectByPrimaryKey="true" enableDeleteByPrimaryKey="true" enableUpdateByPrimaryKey="true" enableInsert="true"/>
+<table schema="cartoon" tableName="bbs_cartoon_dub" enableSelectByPrimaryKey="true" enableDeleteByPrimaryKey="true" enableUpdateByPrimaryKey="true" enableInsert="true"/>
+<table schema="cartoon" tableName="bbs_cartoon_image" enableSelectByPrimaryKey="true" enableDeleteByPrimaryKey="true" enableUpdateByPrimaryKey="true" enableInsert="true"/>
+<table schema="cartoon" tableName="bbs_posts" enableSelectByPrimaryKey="true" enableDeleteByPrimaryKey="true" enableUpdateByPrimaryKey="true" enableInsert="true"/>
